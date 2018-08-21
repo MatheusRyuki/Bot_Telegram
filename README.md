@@ -1,16 +1,11 @@
-# web-nodejs-sample
+# Bot_telegram
 
-ExpressJS Sample Application
+Criação de um bot para moderação automatizada de um grupo
 
-# Developer Workspace
+# Ambiente de trabalho do desenvolvedor
 [![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=r8et9w6vohmqvro8)
 
-# Stack to use
+# Stack a ser usado
 
 FROM [codenvy/node](https://hub.docker.com/r/codenvy/node/)
 
-# How to run
-
-| #       | Description           | Command  |
-| :------------- |:-------------| :-----|
-| 1      | Run | `cd ${current.project.path}/app && node app.js` |
